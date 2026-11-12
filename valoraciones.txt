@@ -1,0 +1,12 @@
+
+VALORACIONES DE LA PRÁCTICA: PROYECTO ALIMENTOS
+
+Gabriel (INTEGRANTE 1):
+La realización de esta práctica me ha permitido aprender a administrar un repositorio de GitHub, crear un repositorio compartido y colaborar con otros compañeros mediante Git. También he aprendido a organizar y subir los archivos del proyecto, especialmente los correspondientes a las vistas y al Front-end (HTML, CSS, JavaScript e imágenes). La práctica me ha ayudado a comprender mejor cómo se organiza un proyecto web y cómo se trabaja en equipo.
+
+Sara (INTEGRANTE 2):
+Esta parte de la práctica me ha permitido aprender a trabajar con Alwaysdata y gestionar una base de datos MySQL desde un hosting. He aprendido a crear la base de datos y sus tablas mediante SQL, así como a utilizar SSH y comandos Git para desplegar los archivos del proyecto en el servidor. También he comprendido mejor cómo se publica una aplicación web para que pueda estar disponible en Internet.
+
+Joaquín (INTEGRANTE 3):
+La realización de esta parte me ha permitido comprender mejor el funcionamiento del patrón MVC (Modelo-Vista-Controlador), trabajando con el controlador frontal, el controlador de acciones y el archivo de configuración. También he aprendido a configurar la conexión entre PHP y la base de datos utilizando los datos proporcionados por el integrante 2. Además, he podido conocer mejor el funcionamiento de una aplicación web desplegada en un hosting.
+
