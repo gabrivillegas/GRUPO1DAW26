@@ -1,13 +1,13 @@
 En esta pracica,HISTÓRICO DE TAREAS REALIZADAS
 
-**Integrante 1:**
+**Integrante 1:Gabriel**
 Creación y administración del repositorio de GitHub, subida de las vistas y archivos Front-end, y recopilación de las valoraciones de los integrantes.
 
-**Integrante 2:**
+**Integrante 2:Sara**
 Configuración del hosting Alwaysdata, creación de la base de datos y la tabla alimentos, y despliegue del modelo mediante SSH y Git.
 
-**Integrante 3:**
+**Integrante 3:Joaquin**
 Desarrollo del controlador frontal, configuración de los archivos Controller.php y Config.php, y conexión con la base de datos.
 
 URL DEL PROYECTO DESPLEGADO:
-[Introducir URL] Gabriel se dedico a crear el repositorio  
+https://proyectoalimentos.alwaysdata.net/  
