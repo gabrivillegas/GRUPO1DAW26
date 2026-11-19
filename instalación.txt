@@ -1,5 +1,17 @@
 Primero creamos una cuenta en alwaysdata. Dentro nos vamos a MySQL y creamos la base de datos con su usuario y contraseña, luego entramos y con el comando creamos la tabla con sus columnas.
+CREATE TABLE `alimentos` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(255) NOT NULL,
+  `energia` decimal(10,0) NOT NULL,
+  `proteina` decimal(10,0) NOT NULL,
+  `hidratocarbono` decimal(10,0) NOT NULL,
+  `fibra` decimal(10,0) NOT NULL,
+  `grasatotal` decimal(10,0) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 
-Cuando ya teníamos el repositorio completo he accedido por ssh al servidor, he clonado el repositorio con un git clone "url" y he cambiado la ruta en el hosting, ya que por defecto está puesto www y lo he cambiado a GRUPO1DAW26/web/ y se ha abierto correctamente.
+Cuando ya teníamos el repositorio completo he accedido por ssh al servidor con el comando:
+ ssh proyectoalimentos@ssh-proyectoalimentos.alwaysdata.net,
+he clonado el repositorio con un 'git clone "url"' y he cambiado la ruta en el hosting mediante la página web de alwaysdata, ya que por defecto está puesto www y lo he cambiado a GRUPO1DAW26/web/ y se ha abierto correctamente.
 
 Además he añadido varias inserciones a la base de datos para probar la web.
